@@ -1,4 +1,7 @@
 module.exports = {
+  basePath: '/open-academie',
+  assetPrefix: '/open-academie/',
+  imagesPublicPath: '/open-academie/_next/static/images',
   exportPathMap: function () {
     return {
       "/": { page: "/" },
@@ -11,7 +14,7 @@ module.exports = {
       "/opencartecomptable": { page: "/opencartecomptable" },
       "/outils": { page: "/outils" },
       "/projet": { page: "/projet" },
-      "/votre-projet": { page: "/votre-projet" }
+      "/votre-projet": { page: "/votre-projet" },
     }
   }
 }
