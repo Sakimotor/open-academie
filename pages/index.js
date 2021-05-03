@@ -9,7 +9,7 @@ export default () => (
   <Layout>
     <main>
       <div className="title">
-        <img src="static/logo-sgmap-hires.jpg" alt="Logo du SGMAP" />
+        <img src="../static/logo-sgmap-hires.jpg" alt="Logo du SGMAP" />
 
         <h1>Open Académie</h1>
 
@@ -19,8 +19,8 @@ export default () => (
           </p>
 
           <div className="buttons">
-            <ButtonLink href="/outils" text="Les outils" className="primary" />
-            <ButtonLink href="/projet" text="Le projet" className="primary" />
+            <ButtonLink href="../outils" text="Les outils" className="primary" />
+            <ButtonLink href="../projet" text="Le projet" className="primary" />
           </div>
         </div>
 

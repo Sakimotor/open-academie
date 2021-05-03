@@ -1,9 +1,9 @@
 {
-  "name": "open-academie-next",
+  "name": "open-academie",
   "version": "1.0.0",
-  "repository": "git@github.com:sgmap/open-academie-next.git",
+  "repository": "git@github.com:sakimotor/open-academie.git",
   "author": "Florian Delezenne <del.florian@gmail.com>",
-  "homepage": "https://sgmap.github.io/open-academie-next",
+  "homepage": "https://sakimotor.github.io/open-academie",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "next": "^4.2.0",
